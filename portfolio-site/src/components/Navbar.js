@@ -6,11 +6,11 @@ export default function Navbar() {
         <>
             <BrowserView>
                 <nav className="bg-secondary flex justify-between items-center py-4 px-6">
-                    <h2 className="text-white text-xl">Deniz Işık</h2>
+                    <h2 className="text-white text-lg">Deniz Işık</h2>
                     <div className="nav--links">
-                        <a href="#skills" className="text-white text-base hover:text-gray-300 px-4">Skills</a>
-                        <a href="#projects" className="text-white text-base hover:text-gray-300 px-4">Projects</a>
-                        <a href="#contacts" className="text-white text-base hover:text-gray-300 px-4">Contact</a>
+                        <a href="#skills" className="text-white text-sm hover:text-gray-300 px-4">Skills</a>
+                        <a href="#projects" className="text-white text-sm hover:text-gray-300 px-4">Projects</a>
+                        <a href="#contacts" className="text-white text-sm hover:text-gray-300 px-4">Contact</a>
                     </div>
                 </nav>
             </BrowserView>
