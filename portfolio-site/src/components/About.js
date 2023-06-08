@@ -3,7 +3,7 @@ import pers_photo from '../assets/pers_photo.jpg'
 export default function About() {
     return (
         <>
-            <div class="py-16 bg-primary">  
+            <div class="pt-16 pb-6 bg-primary">  
                 <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                     <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                         <div class="md:5/12 lg:w-5/12">
@@ -20,8 +20,9 @@ export default function About() {
                         </div>
                     </div>
                 </div>
+                <hr className="my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
             </div>
-            <hr className="my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:opacity-100" />
+            
         </>
         
     )
