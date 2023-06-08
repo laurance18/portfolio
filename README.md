@@ -1,4 +1,4 @@
-# Portfolio Website
+# 🌐 Portfolio Website
 
 Welcome to my portfolio repository! This repository contains the source code and assets for my personal portfolio website.
 
@@ -13,7 +13,6 @@ To explore my portfolio, please visit [my portfolio website.](https://laurance18
 ## 💻 Technologies Used
 
 - HTML5
-- CSS3
 - TailwindCSS
 - ReactJS
 - create-react-app
