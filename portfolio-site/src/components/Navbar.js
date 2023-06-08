@@ -15,7 +15,7 @@ export default function Navbar() {
                 </nav>
             </BrowserView>
             <MobileView>
-                <nav className="bg-secondary flex justify-between xl:justify-between items-center py-4 px-6">
+                <nav className="bg-gradient-to-t from-primary to-secondary flex justify-between xl:justify-between items-center py-4 px-6">
                     <h2 className="text-white text-sm">Deniz Işık</h2>
                     <div className="nav--links">
                         <a href="#skills" className="text-white text-[10px] hover:text-gray-300 px-2">Skills</a>
