@@ -15,7 +15,7 @@ To explore my portfolio, please visit [my portfolio website.](https://laurance18
 - HTML5
 - TailwindCSS
 - ReactJS
-- Bootstrapped - [Create React App](https://github.com/facebook/create-react-app)
+- Bootstrapped using [Create React App](https://github.com/facebook/create-react-app)
 
 ## 📧 Contact
 
