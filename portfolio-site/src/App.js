@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar';
+import About from './components/About';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
 
       {/* Code below is published on branch main. */}
       <Navbar />
+      <About />
 
     </div>
   );
