@@ -7,7 +7,11 @@ module.exports = {
     extend: {
       backgroundImage: {
         'in-progress': "url('./assets/in_progress.jpg')",
-      }
+      },
+      colors: {
+        'primary': '#1A1A2E',
+        'secondary': '#2E2E42',
+      },
     },
   },
   plugins: [],
