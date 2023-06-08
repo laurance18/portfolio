@@ -20,7 +20,7 @@ export default function About() {
                         </div>
                     </div>
                 </div>
-                <hr className="my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
+                <hr className="mt-12 mb-6 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50" />
             </div>
         </>
     )
