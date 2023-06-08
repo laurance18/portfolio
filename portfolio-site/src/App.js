@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import About from './components/About';
+import Skills from './components/Skills';
 import Footer from './components/Footer';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       {/* Code below is published on branch main. */}
       <Navbar />
       <About />
+      <Skills />
       <Footer />
     </div>
   );
