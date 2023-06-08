@@ -11,10 +11,10 @@ export default function About() {
                     <div class="md:w-7/12 lg:w-6/12">
                         <h2 class="text-2xl text-white font-bold md:text-4xl">Deniz Işık: Mechanical Engineering Student</h2>
                         <p class="mt-12 text-gray-600 text-left text-sm">
-                            I am currently studying Mechanical Engineering at IZTECH while pursuing my passion for software development. With over five years of experience in software projects, I have honed my programming skills and problem-solving abilities. Alongside my technical expertise, I possess strong collaboration, teamwork, and communication skills. I am eager to gain practical experience in web development and contribute to innovative projects.
+                            I am currently studying Mechanical Engineering at IZTECH while pursuing my passion for software development. With over five years of experience in software projects, I have honed my programming skills and problem-solving abilities. I am eager to gain practical experience in web development and contribute to innovative projects.
                         </p>
                         <p class="mt-4 text-gray-600 text-left text-sm"> 
-                            Driven by a growth mindset, I am committed to excellence and constantly seeking opportunities to apply my software expertise. With a foundation in Mechanical Engineering, I am excited to expand my knowledge and skills in web development. I am enthusiastic about embracing new challenges and making meaningful contributions to the field.
+                            Driven by a growth mindset, I am committed to excellence and constantly seeking opportunities to apply my software expertise. I am excited to expand my knowledge and skills in web development. I am enthusiastic about embracing new challenges and making meaningful contributions to the field.
                         </p>
                     </div>
                 </div>
