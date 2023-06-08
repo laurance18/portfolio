@@ -1,11 +1,11 @@
-import {BrowserView, MobileView, isMobile} from 'react-device-detect';
+import {BrowserView, MobileView} from 'react-device-detect';
 
 export default function Navbar() {
 
     return (
         <>
             <BrowserView>
-                <nav className="bg-secondary flex justify-between items-center py-4 px-6">
+                <nav className="bg-gradient-to-t from-primary to-secondary flex justify-between items-center py-4 px-6">
                     <h2 className="text-white text-lg">Deniz Işık</h2>
                     <div className="nav--links">
                         <a href="#skills" className="text-white text-sm hover:text-gray-300 px-4">Skills</a>
