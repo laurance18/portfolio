@@ -4,7 +4,11 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'in-progress': "url('./assets/in_progress.jpg')",
+      }
+    },
   },
   plugins: [],
 }
