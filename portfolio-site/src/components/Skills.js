@@ -2,9 +2,10 @@ import { isMobile } from "react-device-detect";
 
 export default function Skills() {
     return (
-        <div className="bg-primary">
-            <h3 className="text-white mb-6">SKILLS</h3>
-            <div className="flex flex-col md:flex-row w-[60wh] md:w-[30wh] p-5 justify-around bg-primary gap-5 wrap">
+        // border-t-transparent to fix the border issue
+        <div className="bg-primary border-t-transparent"> 
+            <h3 className="text-white mb-6 text-2xl">SKILLS</h3>
+            <div className="flex flex-col md:flex-row p-5 justify-around bg-primary gap-5">
                 <div
                 class="block rounded-lg bg-white p-6 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-secondary">
                 <span className="flex justify-center items-center gap-2 mb-3">
