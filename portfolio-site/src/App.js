@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import About from './components/About';
-import Skills from './components/Skills';
+import SkillsList from './components/SkillsList';
 import Footer from './components/Footer';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       {/* Code below is published on branch main. */}
       <Navbar />
       <About />
-      <Skills />
+      <SkillsList />
       <Footer />
     </div>
   );
