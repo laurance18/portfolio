@@ -2,6 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import SkillsList from './components/SkillsList';
+import ProjectsList from './components/ProjectsList';
 import Footer from './components/Footer';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Navbar />
       <About />
       <SkillsList />
+      <ProjectsList />
       <Footer />
     </div>
   );
