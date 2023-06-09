@@ -13,7 +13,7 @@ export default function SkillsList() {
     return (
         // border-t-transparent to fix the border issue
         <div id="skills" className="bg-primary border-t-transparent pb-6"> 
-            <h3 className="text-white mb-6 text-2xl">SKILLS</h3>
+            <h3 className="text-white mb-6 text-2xl font-bold">SKILLS</h3>
             <div className="flex flex-col flex-wrap justify-center items-center md:flex-row p-5 bg-primary gap-5">
                 {skills}
             </div> 
