@@ -5,7 +5,7 @@ export default function Skill(props) {
                     <div class="flex flex-col justify-center items-center inset-0 p-5">
                         <span className="flex justify-center items-center gap-2 mb-2">
                             <h5
-                            className="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+                            className="mb-2 text-xl font-medium leading-tight text-neutral-50">
                             {props.name}
                             </h5>
                             {props.icon}
@@ -17,7 +17,7 @@ export default function Skill(props) {
                     </div>
                     <div class="absolute inset-0 h-full w-full rounded-xl bg-black/80 px-4 text-center text-slate-200 [transform:rotateY(180deg)] [backface-visibility:hidden]">
                         <div class="flex min-h-full flex-col items-center justify-center">
-                            <p className="mb-5 text-base text-neutral-600 dark:text-neutral-200">
+                            <p className="mb-5 text-base text-neutral-200">
                                 {props.desc}
                             </p>
                         </div>
