@@ -20,7 +20,7 @@ export default function Navbar() {
                     <div className="nav--links">
                         <a href="#skills" className="text-white text-[10px] hover:text-gray-300 px-2">Skills</a>
                         <a href="#projects" className="text-white text-[10px] hover:text-gray-300 px-2">Projects</a>
-                        <a href="#contacts" className="text-white text-[10px] hover:text-gray-300 px-2">Contact</a>
+                        <a href="#contact" className="text-white text-[10px] hover:text-gray-300 px-2">Contact</a>
                     </div>
                 </nav>
             </MobileView>
