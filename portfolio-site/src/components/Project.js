@@ -10,7 +10,7 @@ export default function Projects(props) {
                     <img src={props.image} alt={props.name} className="w-full md:w-1/2" />
                     <span className="text-center w-full md:w-1/2 text-gray-300 pt-4 self-center">
                         <p className="pb-5">{props.desc}</p>
-                        <p>You can visit the website by clicking <a className="text-blue-800 hover:text-blue-600" href={props.link} target="_blank">this link.</a></p>
+                        <p>You can visit the website by clicking <a className="text-blue-800 hover:text-blue-600" href={props.link} target="_blank" rel="noreferrer">this link.</a></p>
                     </span>
                 </span>
             </div>
@@ -20,7 +20,7 @@ export default function Projects(props) {
                 <span className="flex items-center flex-col md:flex-row gap-2 md:gap-5">
                     <span className="text-center w-full md:w-1/2 text-gray-300 pt-4 self-center">
                         <p className="pb-7">{props.desc}</p>
-                        <p>You can visit the website by clicking <a className="text-blue-800 hover:text-blue-600" href={props.link} target="_blank">this link.</a></p>
+                        <p>You can visit the website by clicking <a className="text-blue-800 hover:text-blue-600" href={props.link} target="_blank" rel="noreferrer">this link.</a></p>
                     </span>
                     <img src={props.image} alt={props.name} className="w-full md:w-1/2" />
                 </span>
