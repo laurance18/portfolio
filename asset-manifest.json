@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7ee5574f.css",
-    "main.js": "/portfolio/static/js/main.ec6b46ed.js",
+    "main.js": "/portfolio/static/js/main.e1d7ffb8.js",
     "static/media/travelsite_photo.png": "/portfolio/static/media/travelsite_photo.c93d017215d54014989d.png",
     "static/media/fiverr_photo.png": "/portfolio/static/media/fiverr_photo.61c4c55162245767fe37.png",
     "static/media/tenzies_photo.png": "/portfolio/static/media/tenzies_photo.4311283e196804bd728f.png",
@@ -9,10 +9,10 @@
     "static/media/up-arrow.png": "/portfolio/static/media/up-arrow.95787edad0573673ddfa.png",
     "index.html": "/portfolio/index.html",
     "main.7ee5574f.css.map": "/portfolio/static/css/main.7ee5574f.css.map",
-    "main.ec6b46ed.js.map": "/portfolio/static/js/main.ec6b46ed.js.map"
+    "main.e1d7ffb8.js.map": "/portfolio/static/js/main.e1d7ffb8.js.map"
   },
   "entrypoints": [
     "static/css/main.7ee5574f.css",
-    "static/js/main.ec6b46ed.js"
+    "static/js/main.e1d7ffb8.js"
   ]
 }
