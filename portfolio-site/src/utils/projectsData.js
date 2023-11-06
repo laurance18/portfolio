@@ -24,7 +24,7 @@ export default {
         {
             id: 3,
             name: "Fiverr Gigs",
-            desc: `I have several gigs on Fiverr, where I offer my services as a freelancer. I have been working on Fiverr for over 3 months now, and I have completed 2 orders about web design. I have a 5-star rating, and I am a Level 1 Seller. I offer services such as web development, web design, and bot design.`,
+            desc: `I have several gigs on Fiverr, where I offer my services as a freelancer. I have been working on Fiverr for over 3 months now, and I have completed 2 orders about web design. I have a 5-star rating, and I am a Level 1 Seller. I offer services such as web development, web design, and bot development.`,
             position: "un-switched",
             image: fiverr_photo,
             link: "https://www.fiverr.com/laurance18?public_mode=true"
